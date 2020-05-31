@@ -5,6 +5,10 @@ html, body {
 	font-family: 'Montserrat', sans-serif !important;
 }
 
+.wrapper {
+	height: 100%;
+}
+
 a {
 	color: #0056b3 !important;
 }
@@ -137,6 +141,10 @@ b {
 	height: 100% !important;
 }
 
+img.d-block:hover {
+	cursor: pointer;
+}
+
 .carousel-control-prev, .carousel-control-next {
 	height: 50%;
 	padding-top: 25%;
@@ -191,4 +199,26 @@ b {
 	position: relative;
 	bottom: 10px;
 	left: 10px;
+}
+
+.modal-dialog {
+	max-width: 100% !important;
+}
+
+.ok {
+	display: flex !important;
+	align-items: center;
+	width: 100%;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+.hi {
+	display: flex;
+	align-items: center;
+}
+
+.img-show {
+	border: 60px solid rgba(33,37,41,0.7);
+	border-radius: 30px;
 }
