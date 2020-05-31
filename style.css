@@ -5,6 +5,10 @@ html, body {
 	font-family: 'Montserrat', sans-serif !important;
 }
 
+.wrapper {
+	height: 100%;
+}
+
 a {
 	color: #0056b3 !important;
 }
@@ -199,19 +203,6 @@ img.d-block:hover {
 
 .modal-dialog {
 	max-width: 100% !important;
-}
-
-.ok {
-	display: flex !important;
-	align-items: center;
-	width: 100%;
-	margin: 0 auto 0 auto;
-	text-align: center;
-}
-
-.hi {
-	display: flex;
-	align-items: center;
 }
 
 .img-show {
