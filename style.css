@@ -101,7 +101,7 @@ b {
 	padding-top: 2%;
 	height: 100%;
 	background-color: #C7A5D5;
-	min-height: 800px;
+	min-height: 750px;
 }
 
 .bi-arrow-up-circle-fill {
@@ -166,7 +166,7 @@ img.d-block:hover {
 }
 
 .web-dev-link-row {
-	margin-top: 60px;
+	margin-top: 1%;
 }
 
 .web-dev-link-text {
